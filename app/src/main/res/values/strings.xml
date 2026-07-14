@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenLocker</string>
+    <string name="accessibility_service_description">Used to lock the screen when the app icon is tapped.</string>
+</resources>
