@@ -82,6 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shawon Talukder**  
 Software Engineer at Green Delta Insurance PLC  
+Email: [shawon.taluckder2@gmail.com](mailto:shawon.taluckder22@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shawon-taluckder)
 
 ---
