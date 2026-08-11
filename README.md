@@ -42,6 +42,7 @@ So, I built ScreenLocker to be the tool I wanted for myself: **Open Source, Offl
 - **Target Version:** Android 15 (API 35)
 - **Language:** Kotlin (100% Native)
 - **Implementation:** Uses `AccessibilityService.GLOBAL_ACTION_LOCK_SCREEN`.
+- **Build Automation:** APKs are automatically renamed to `ScreenLocker_v[version].apk` during build.
 - **Security:** 
     - No `INTERNET` permission.
     - No `READ_EXTERNAL_STORAGE` permission.

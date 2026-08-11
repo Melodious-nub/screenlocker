@@ -27,6 +27,14 @@ android {
     }
 }
 
+androidComponents {
+    onVariants { variant ->
+        variant.outputs.forEach { output ->
+            output.outputFileName.set("ScreenLocker_v${android.defaultConfig.versionName}.apk")
+        }
+    }
+}
+
 dependencies {
     // No external dependencies for ultra-lightweight APK
 }
